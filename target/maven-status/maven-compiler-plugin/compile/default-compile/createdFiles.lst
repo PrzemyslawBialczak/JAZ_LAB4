@@ -1,0 +1,14 @@
+domain\Comment.class
+domain\Actor.class
+rest\TestRest.class
+domain\Movie.class
+domain\services\MovieService.class
+domain\services\PersonService.class
+domain\Rating.class
+rest\MoviesResources.class
+rest\ActorsResources.class
+rest\ApplicationConfig.class
+domain\Car.class
+domain\Person.class
+rest\PeopleResources.class
+domain\services\ActorService.class
